@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next_activity">Next Activity</string>
+    <string name="todo">TODO</string>
+    <string name="main_activity" />
+    <string name="main_activity1">Main_Activity</string>
+    <string name="next_activity1">Next_Activity</string>
+    <string name="todo1">TODO</string>
+</resources>

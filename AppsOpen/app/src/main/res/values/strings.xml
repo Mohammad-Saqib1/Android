@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Apps Open</string>
+    <string name="youtubeimage">YoutubeImage</string>
+    <string name="insagram">Insagram</string>
+    <string name="facebook">facebook</string>
+    <string name="whatsapp">whatsapp</string>
+    <string name="youtube">youtube</string>
+</resources>

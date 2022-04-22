@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backgroung">this is background</string>
+    <string name="snap_chat">Snap Chat</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+</resources>

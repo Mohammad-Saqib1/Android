@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Country Picker</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_number">Enter Your Number</string>
+    <string name="i_agree_terms_amp_conditons"><![CDATA[I agree terms & conditons]]></string>
+    <string name="submit">Submit</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+</resources>

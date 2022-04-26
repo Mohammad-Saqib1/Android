@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="UselessParent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/aajtak"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/aaj"
+                        android:contentDescription="@string/aajtak"
+                        android:layout_marginEnd="2dp" />
+
+                    <ImageView
+                        android:id="@+id/amarujala"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/au"
+                        android:contentDescription="@string/amarujala"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/bbc"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/bbcnews"
+                        android:contentDescription="@string/bbc"
+                        android:layout_marginEnd="2dp" />
+
+                    <ImageView
+                        android:id="@+id/dainikBhaskar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/dainikbhaskar"
+                        app:srcCompat="@drawable/db"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/deccanChronicle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginRight="2dp"
+                        android:contentDescription="@string/deccanchronocle"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/dc"
+                        android:layout_marginEnd="2dp" />
+
+                    <ImageView
+                        android:id="@+id/deccanHerald"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="2dp"
+                        android:contentDescription="@string/deccanherald"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/dh"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/dainikJagran"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginRight="2dp"
+                        android:contentDescription="@string/dainikjagran"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/dj"
+                        android:layout_marginEnd="2dp" />
+
+                    <ImageView
+                        android:id="@+id/google"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="2dp"
+                        android:contentDescription="@string/google"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/googl"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/hindustan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginRight="2dp"
+                        android:contentDescription="@string/hindustan"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/hind"
+                        android:layout_marginEnd="2dp" />
+
+                    <ImageView
+                        android:id="@+id/timeOfIndia"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/thetimesofinidia"
+                        app:srcCompat="@drawable/ht"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/inquilab"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/inquilab"
+                        app:srcCompat="@drawable/inq"
+                        android:layout_marginEnd="2dp" />
+
+                    <ImageView
+                        android:id="@+id/ndtv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/ndtv"
+                        app:srcCompat="@drawable/nnnn"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/navBharatTimes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/navbharattimes"
+                        app:srcCompat="@drawable/nvt"
+                        android:layout_marginEnd="2dp" />
+
+                    <ImageView
+                        android:id="@+id/patrika"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/patrika"
+                        app:srcCompat="@drawable/pat"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/prabhatKhabar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/prabhatkhabar"
+                        app:srcCompat="@drawable/pk"
+                        android:layout_marginEnd="2dp" />
+
+                    <ImageView
+                        android:id="@+id/hindustanTimes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/hindustantimes"
+                        app:srcCompat="@drawable/rht"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/rajasthanPatrika"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:contentDescription="@string/rajasthanpatrika"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/rpat"
+                        android:layout_marginEnd="2dp" />
+
+                    <ImageView
+                        android:id="@+id/siasat"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="2dp"
+                        android:contentDescription="@string/siasat"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/sia"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/theAsianAge"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginRight="2dp"
+                        android:contentDescription="@string/theasianage"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/taa"
+                        android:layout_marginEnd="2dp" />
+
+                    <ImageView
+                        android:id="@+id/taasir"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="2dp"
+                        android:contentDescription="@string/taasir"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/taas"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/freePressJournal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/freepressjournal"
+                        app:srcCompat="@drawable/tfpj"
+                        android:layout_marginEnd="2dp" />
+
+                    <ImageView
+                        android:id="@+id/theHindu"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/thehindu"
+                        app:srcCompat="@drawable/th"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/theIndianExpress"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginRight="2dp"
+                        android:contentDescription="@string/indianexpress"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/tie"
+                        android:layout_marginEnd="2dp" />
+
+                    <ImageView
+                        android:id="@+id/theStateman"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="2dp"
+                        android:contentDescription="@string/thestateman"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/ts"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/zeeNews"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/zeenews"
+                        app:srcCompat="@drawable/zee"
+                        android:layout_marginEnd="2dp" />
+
+                    <ImageView
+                        android:id="@+id/theTelegraph"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/thetelegraph"
+                        app:srcCompat="@drawable/tt"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

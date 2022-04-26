@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">All In One Newspaper</string>
+
+
+    <string name="amarujala">amarujala</string>
+    <string name="aajtak">aajtak</string>
+    <string name="zeenews">zeeNews</string>
+    <string name="thetelegraph">TheTelegraph</string>
+    <string name="thestateman">theStateman</string>
+    <string name="indianexpress">indianExpress</string>
+    <string name="thehindu">TheHindu</string>
+    <string name="freepressjournal">freePressJournal</string>
+    <string name="taasir">taasir</string>
+    <string name="theasianage">theAsianAge</string>
+    <string name="siasat">siasat</string>
+    <string name="rajasthanpatrika">rajasthanPatrika</string>
+    <string name="hindustantimes">hindustanTimes</string>
+    <string name="prabhatkhabar">prabhatKhabar</string>
+    <string name="patrika">patrika</string>
+    <string name="navbharattimes">navBharatTimes</string>
+    <string name="ndtv">ndtv</string>
+    <string name="inquilab">inquilab</string>
+    <string name="thetimesofinidia">theTimesOfInidia</string>
+    <string name="hindustan">hindustan</string>
+    <string name="google">google</string>
+    <string name="dainikjagran">dainikJagran</string>
+    <string name="deccanherald">deccanHerald</string>
+    <string name="deccanchronocle">deccanChronocle</string>
+    <string name="dainikbhaskar">dainikBhaskar</string>
+    <string name="bbc">bbc</string>
+    <string name="share">Share</string>
+    <string name="rateus">RateUs</string>
+    <string name="contacts">Contacts</string>
+    <string name="thehindupublisher">TheHinduPublisher</string>
+    <string name="deccanchroniclepublisher">deccanChroniclePublisher</string>
+    <string name="dainikjagranpublisher">dainikJagranPublisher</string>
+    <string name="hindustanpublisher">HindustanPublisher</string>
+    <string name="navbharattimespublisher">NavBharatTimesPublisher</string>
+    <string name="timesofindiapublisher">TimesOfIndiaPublisher</string>
+    <string name="hindustantimespublisher">HindustanTimesPublisher</string>
+
+</resources>

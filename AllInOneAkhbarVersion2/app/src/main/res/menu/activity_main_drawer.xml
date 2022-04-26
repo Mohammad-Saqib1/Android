@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+<item android:title="@string/english_news">
+
+    <menu>
+        <item
+            android:id="@+id/nav_home"
+            android:menuCategory="secondary"
+            android:title="@string/bbc_news" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:menuCategory="secondary"
+            android:title="@string/deccan_herald" />
+
+        <item
+            android:id="@+id/nav_slideshow"
+            android:menuCategory="secondary"
+            android:title="@string/deccan_chronicle" />
+        <item
+            android:id="@+id/nav_google"
+            android:menuCategory="secondary"
+            android:title="@string/google_news" />
+        <item
+            android:id="@+id/nav_hindustan_times"
+            android:menuCategory="secondary"
+            android:title="@string/hindustan_times" />
+        <item
+            android:id="@+id/nav_ndtv"
+            android:menuCategory="secondary"
+            android:title="@string/ndtv" />
+        <item
+            android:id="@+id/nav_ttoi"
+            android:menuCategory="secondary"
+            android:title="@string/the_times_of_india" />
+        <item
+            android:id="@+id/nav_the_asian_age"
+            android:menuCategory="secondary"
+            android:title="@string/the_asian_age" />
+        <item
+            android:id="@+id/nav_freepress"
+            android:menuCategory="secondary"
+            android:title="@string/the_freepress_journal" />
+        <item
+            android:id="@+id/nav_the_hindu"
+            android:menuCategory="secondary"
+            android:title="@string/the_hindu" />
+        <item
+            android:id="@+id/nav_telegraph"
+            android:menuCategory="secondary"
+            android:title="@string/the_telegraph" />
+
+        <item
+            android:id="@+id/nav_statesman"
+            android:menuCategory="secondary"
+            android:title="@string/the_statesman" />
+        <item
+            android:id="@+id/nav_indian_Express"
+            android:menuCategory="secondary"
+            android:title="@string/the_indian_express" />
+        <item
+            android:id="@+id/nav_zee_news"
+            android:menuCategory="secondary"
+            android:title="@string/zee_news"
+            />
+
+    </menu>
+</item>
+
+    <item android:title="@string/hindi_news">
+<menu>
+    <item
+        android:id="@+id/nav_aaj_tak"
+        android:menuCategory="secondary"
+        android:title="@string/aaj_tak" />
+    <item
+        android:id="@+id/nav_amarujala"
+        android:menuCategory="secondary"
+        android:title="@string/amarujala" />
+    <item
+        android:id="@+id/nav_danik_jagran"
+        android:menuCategory="secondary"
+        android:title="@string/dainik_jagran" />
+    <item
+        android:id="@+id/nav_dainik_bhaskar"
+        android:menuCategory="secondary"
+        android:title="@string/dainik_bhaskar" />
+    <item
+        android:id="@+id/nav_hindustan"
+        android:menuCategory="secondary"
+        android:title="@string/hindustan" />
+    <item
+        android:id="@+id/nav_navbharat_times"
+        android:menuCategory="secondary"
+        android:title="@string/navbharat_times" />
+    <item
+        android:id="@+id/nav_patrika"
+        android:menuCategory="secondary"
+        android:title="@string/patrika" />
+    <item
+        android:id="@+id/nav_prabhat_khabar"
+        android:menuCategory="secondary"
+        android:title="@string/prabhat_khabar" />
+    <item
+        android:id="@+id/nav_rajasthan_patrika"
+        android:menuCategory="secondary"
+        android:title="@string/rajasthan_patrika" />
+
+
+</menu>
+    </item>
+
+<item android:title="@string/urdu_news">
+    <menu>
+    <item
+        android:id="@+id/nav_siyasat"
+        android:menuCategory="secondary"
+        android:title="@string/siyasat" />
+
+        <item
+            android:id="@+id/nav_taasir"
+            android:menuCategory="secondary"
+            android:title="@string/taasir" />
+        <item
+            android:id="@+id/nav_inqulab"
+            android:menuCategory="secondary"
+            android:title="@string/the_inquilab" />
+
+
+
+    </menu>
+
+</item>
+</menu>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">All In One Akhbar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="english_news">English News</string>
+
+
+    <string name="aaj_tak">AAJ TAK</string>
+    <string name="ndtv">NDTV</string>
+    <string name="google_news">GOOGLE NEWS</string>
+    <string name="hindustan_times">HINDUSTAN TIMES</string>
+    <string name="the_times_of_india">THE TIMES OF INDIA</string>
+    <string name="the_asian_age">THE ASIAN AGE</string>
+    <string name="the_freepress_journal">THE FREEPRESS JOURNAL</string>
+
+    <string name="deccan_chronicle">DECCAN CHRONICLE</string>
+    <string name="the_hindu">THE HINDU</string>
+    <string name="the_telegraph">THE TELEGRAPH</string>
+    <string name="the_statesman">THE STATESMAN</string>
+    <string name="the_indian_express">THE INDIAN EXPRESS</string>
+    <string name="dainik_jagran">DAINIK JAGRAN</string>
+    <string name="dainik_bhaskar">DAINIK BHASKAR</string>
+    <string name="hindustan">HINDUSTAN</string>
+    <string name="amarujala">AMARUJALA</string>
+    <string name="rajasthan_patrika">RAJASTHAN PATRIKA</string>
+    <string name="prabhat_khabar">PRABHAT KHABAR</string>
+    <string name="patrika">PATRIKA</string>
+    <string name="navbharat_times">NAVBHARAT TIMES</string>
+    <string name="the_inquilab">THE INQUILAB</string>
+    <string name="siyasat">SIYASAT</string>
+    <string name="taasir">TAASIR</string>
+    <string name="zee_news">ZEE NEWS</string>
+    <string name="hindi_news">Hindi News</string>
+    <string name="urdu_news">Urdu News</string>
+    <string name="news_app">News App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deccan_herald">DECCAN HERALD</string>
+    <string name="bbc_news">BBC NEWS</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="contact_publisher">Contact Publisher</string>
+</resources>

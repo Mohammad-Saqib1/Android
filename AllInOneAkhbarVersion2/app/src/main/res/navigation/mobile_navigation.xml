@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.saqib.akhbar.allinoneakhbar.ui.home.HomeFragment"
+        android:label="BBC NEWS"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.saqib.akhbar.allinoneakhbar.ui.gallery.GalleryFragment"
+        android:label="DECCAN HERALD"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.saqib.akhbar.allinoneakhbar.ui.slideshow.SlideshowFragment"
+        android:label="DECCAN CHRONICLE"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_aaj_tak"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.aaj_tak"
+        android:label="@string/aaj_tak"
+        tools:layout="@layout/fragment_aaj_tak" />
+    <fragment
+        android:id="@+id/nav_amarujala"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.amarujala"
+        android:label="@string/amarujala"
+        tools:layout="@layout/fragment_amarujala" />
+    <fragment
+        android:id="@+id/nav_dainik_bhaskar"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.dainik_bhaskar"
+        android:label="@string/dainik_bhaskar"
+        tools:layout="@layout/fragment_dainik_bhaskar" />
+    <fragment
+        android:id="@+id/nav_danik_jagran"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.danik_jagran"
+        android:label="@string/dainik_jagran"
+        tools:layout="@layout/fragment_danik_jagran" />
+    <fragment
+        android:id="@+id/nav_freepress"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.freepress"
+        android:label="@string/the_freepress_journal"
+        tools:layout="@layout/fragment_freepress" />
+    <fragment
+        android:id="@+id/nav_google"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.google"
+        android:label="@string/google_news"
+        tools:layout="@layout/fragment_google" />
+    <fragment
+        android:id="@+id/nav_hindustan"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.hindustan"
+        android:label="@string/hindustan"
+        tools:layout="@layout/fragment_hindustan" />
+    <fragment
+        android:id="@+id/nav_hindustan_times"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.hindustan_times"
+        android:label="@string/hindustan_times"
+        tools:layout="@layout/fragment_hindustan_times" />
+    <fragment
+        android:id="@+id/nav_indian_Express"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.indian_Express"
+        android:label="@string/the_indian_express"
+        tools:layout="@layout/fragment_indian__express" />
+    <fragment
+        android:id="@+id/nav_inqulab"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.inqulab"
+        android:label="@string/the_inquilab"
+        tools:layout="@layout/fragment_inqulab" />
+    <fragment
+        android:id="@+id/nav_navbharat_times"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.navbharat_times"
+        android:label="@string/navbharat_times"
+        tools:layout="@layout/fragment_navbharat_times" />
+    <fragment
+        android:id="@+id/nav_ndtv"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.ndtv"
+        android:label="@string/ndtv"
+        tools:layout="@layout/fragment_ndtv" />
+    <fragment
+        android:id="@+id/nav_patrika"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.patrika"
+        android:label="@string/patrika"
+        tools:layout="@layout/fragment_patrika" />
+    <fragment
+        android:id="@+id/nav_prabhat_khabar"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.prabhat_khabar"
+        android:label="@string/prabhat_khabar"
+        tools:layout="@layout/fragment_prabhat_khabar" />
+    <fragment
+        android:id="@+id/nav_rajasthan_patrika"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.rajasthan_patrika"
+        android:label="@string/rajasthan_patrika"
+        tools:layout="@layout/fragment_rajasthan_patrika" />
+    <fragment
+        android:id="@+id/nav_siyasat"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.siyasat"
+        android:label="@string/siyasat"
+        tools:layout="@layout/fragment_siyasat" />
+    <fragment
+        android:id="@+id/nav_statesman"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.statesman"
+        android:label="@string/the_statesman"
+        tools:layout="@layout/fragment_statesman" />
+    <fragment
+        android:id="@+id/nav_taasir"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.taasir"
+        android:label="@string/taasir"
+        tools:layout="@layout/fragment_taasir" />
+    <fragment
+        android:id="@+id/nav_telegraph"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.telegraph"
+        android:label="@string/the_telegraph"
+        tools:layout="@layout/fragment_telegraph" />
+    <fragment
+        android:id="@+id/nav_the_asian_age"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.the_asian_age"
+        android:label="@string/the_asian_age"
+        tools:layout="@layout/fragment_the_asian_age" />
+    <fragment
+        android:id="@+id/nav_the_hindu"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.the_hindu"
+        android:label="@string/the_hindu"
+        tools:layout="@layout/fragment_the_hindu" />
+    <fragment
+        android:id="@+id/nav_ttoi"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.ttoi"
+        android:label="@string/the_times_of_india"
+        tools:layout="@layout/fragment_ttoi" />
+    <fragment
+        android:id="@+id/nav_zee_news"
+        android:name="com.saqib.akhbar.allinoneakhbar.fragement.zee_news"
+        android:label="@string/zee_news"
+        tools:layout="@layout/fragment_zee_news" />
+
+</navigation>

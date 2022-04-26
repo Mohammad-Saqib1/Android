@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ByDefault">Button</string>
-    <string name="simplegravity">Button</string>
-    <string name="nestedgravity">Button</string>
-    <string name="by_default">By Default</string>
-    <string name="simple_gravity">Simple Gravity</string>
-    <string name="nested_gravity">Nested Gravity</string>
-</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="food_image">Food Image</string>
+    <string name="name">Name</string>
+    <string name="dollar">$</string>
+
+    <string name="description">Description</string>
+    <string name="descriptionDetail">Meaty portobello mushrooms make for the perfect vegetarian burger</string>
+    <string name="order_image">Order Image</string>
+    <string name="ordernumber">OrderNumber</string>
+    <string name="_012345">012345</string>
+    <string name="detail_image">Detail Image</string>
+    <string name="burger">Burger</string>
+    <string name="add">Add</string>
+    <string name="_1">1</string>
+    <string name="subs">Subs</string>
+    <string name="order_now">Order Now</string>
+    <string name="_15">15</string>
+    <string name="price">Price</string>
+    <string name="phone">Phone</string>
+    <string name="your_name">Your Name</string>
+    <string name="my_orders">My Orders</string>
+</resources>

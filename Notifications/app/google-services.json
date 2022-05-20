@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053388625842",
+    "project_id": "notification-tutorial-42650",
+    "storage_bucket": "notification-tutorial-42650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053388625842:android:919ebd533a7367a7e536ab",
+        "android_client_info": {
+          "package_name": "com.saqib.akhbar.notificationtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053388625842-07v6f5k1ieeasjhkfm0ihn3d8kcha0hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj5EnGBM1N8uZt22bNCkTR0dT7X1BI_ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053388625842-07v6f5k1ieeasjhkfm0ihn3d8kcha0hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

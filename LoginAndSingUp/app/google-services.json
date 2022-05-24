@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228077969022",
+    "project_id": "login-and-singup-e706c",
+    "storage_bucket": "login-and-singup-e706c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228077969022:android:2bf56b674a6196097b422f",
+        "android_client_info": {
+          "package_name": "com.saqib.akhbar.loginandsingup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228077969022-48qr36mhr30e0acbukgjp5uhld6hdpha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzQtibSgLwWZogGzt5li2XfcopgEFhzts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228077969022-48qr36mhr30e0acbukgjp5uhld6hdpha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

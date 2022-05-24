@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user">User</string>
+    <string name="heart">Heart</string>
+    <string name="plus">Plus</string>
+    <string name="search">Search</string>
+    <string name="send">Send</string>
+    <string name="share">Share</string>
+    <string name="comment">Comment</string>
+    <string name="upcoming">UpComing</string>
+    <string name="videos">Videos</string>
+    <string name="images">Images</string>
+    <string name="settings">Settings</string>
+    <string name="Audio">audio</string>
+    <string name="Mic">mic</string>
+    <string name="Reading">writing</string>
+    <string name="Writing">writing</string>
+    <string name="Speaking">speaking</string>
+    <string name="privacy">Privacy</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="welcome_to_privacy_policy">Welcome To Privacy Policy</string>
+</resources>

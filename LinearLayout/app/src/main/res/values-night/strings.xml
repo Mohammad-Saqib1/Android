@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button1">Button1</string>
+    <string name="button2">button2</string>
+    <string name="button3">button3</string>
+    <string name="button4">button4</string>
+    <string name="button5">button5</string>
+    <string name="textview1">TextView1</string>
+    <string name="this_is_dividor_button">This is Dividor button</string>
+    <string name="textview2">TextView2</string>
+
+</resources>

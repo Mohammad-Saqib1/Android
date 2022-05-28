@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OnClickListener</string>
+    <string name="fisrt">Fisrt</string>
+    <string name="firstway">FirstWay</string>
+    <string name="second">Second</string>
+    <string name="secondway">SecondWay</string>
+    <string name="thirdway">ThirdWay</string>
+    <string name="third">Third</string>
+    <string name="secondwayway">secondway</string>
+</resources>

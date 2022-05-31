@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_aworld_2">Hello AWorld 2</string>
+    <string name="hello_world_3">Hello World 3</string>
+    <string name="button">Button</string>
+</resources>
